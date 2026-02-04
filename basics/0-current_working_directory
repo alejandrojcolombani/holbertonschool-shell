@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "/$(basename "$PWD")"
-
+1  #!/bin/bash
+2  echo "/$(basename "$PWD")"
