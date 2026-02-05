@@ -1,0 +1,1 @@
+This project focuses on understanding and working with Linux file permissions, users, and groups. The objective is to learn how permissions work in the Unix/Linux environment, how to modify them, and how to manage users and groups using the command line.
